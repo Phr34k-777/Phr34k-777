@@ -99,4 +99,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>J'aime échanger avec des personnes passionnées</b>, alors si tu veux dire <b>salut, je serai ravi de te rencontrer !</b> :)</em>
 
 <br>
-<p align="right"> Créé avec 🧡 par <a href="https://phr34k-777.github.io">BOTON H. Désiré</a></p>
+<p align="right"> Créé par <a href="https://phr34k-777.github.io">BOTON H. Désiré</a></p>
