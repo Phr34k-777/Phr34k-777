@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](banner-animated.gif)
 
 <img align="left" src="benin-flag.gif" width="10%" style="display:inline;"><img align="right" src="benin-flag.gif" width="10%" style="display:inline;">
 
